@@ -24,3 +24,6 @@
 # menores é conhecido como Divisão e Conquista (ou Divide and Conquer, em inglês).
 # Essa técnica é a base para escrever códigos limpos, fáceis de manter e eutilizáveis
 
+# primeiro comando
+print('Olá, mundo!') # imprimir na tela
+print("Olá, mundo!")
