@@ -24,6 +24,19 @@
 # menores é conhecido como Divisão e Conquista (ou Divide and Conquer, em inglês).
 # Essa técnica é a base para escrever códigos limpos, fáceis de manter e eutilizáveis
 
+
+# Falar primeiro sobre comentario em Python 
+# Como faze-los
+
+print('Paulo Carvalho') # Comentario em linha apenas 1 linha
+"""
+Comentario em multilinhas
+"""
+
+'''
+Comentario em multilinhas
+'''
+
 # primeiro comando
 print('Olá, mundo!') # imprimir na tela
 print("Olá, mundo!")
