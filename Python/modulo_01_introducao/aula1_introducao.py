@@ -10,6 +10,10 @@
 # de sua biblioteca padrão e por módulos e frameworks desenvolvidoe por
 # terceiros.
 
+# O criador da linguagem de programação Python é o programador holandês Guido van
+# Rossum. Ele iniciou o desenvolvimento da linguagem no final de 1989 e a primeira
+# versão pública (0.9.0) foi lançada em 1991
+
 # Aplicações da lingagem Python
 
 # 1 - Desenvolvimento Web
