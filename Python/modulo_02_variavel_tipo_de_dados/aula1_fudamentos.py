@@ -28,7 +28,8 @@
 # Falar primeiro sobre comentario em Python 
 # Como faze-los
 
-print('Paulo Carvalho') # Comentario em linha apenas 1 linha
+print(
+    'Paulo Carvalho') # Comentario em linha apenas 1 linha
 """
 Comentario em multilinhas
 """
@@ -40,3 +41,6 @@ Comentario em multilinhas
 # primeiro comando
 print('Olá, mundo!') # imprimir na tela
 print("Olá, mundo!")
+
+# Comentar sobre PEP8 guia de estilo em Python
+# https://peps.python.org/pep-0008/
