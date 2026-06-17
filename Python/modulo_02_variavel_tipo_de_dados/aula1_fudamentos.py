@@ -20,7 +20,7 @@
 # Conceito Famoso
 # Na programação, esse conceito de pegar um problema grande e quebrá-lo em pedaços
 # menores é conhecido como Divisão e Conquista (ou Divide and Conquer, em inglês).
-# Essa técnica é a base para escrever códigos limpos, fáceis de manter e eutilizáveis
+# Essa técnica é a base para escrever códigos limpos, fáceis de manter e reutilizáveis
 
 
 # Falar primeiro sobre comentario em Python 
