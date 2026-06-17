@@ -40,7 +40,7 @@ num2 = 3.5
 nome = 'Paulo'
 nome = "Carvalho"
 
-a = b = c = 'Python'
+a = b = c = ' Faz o curso de Python'
 
 # Operador "+" sendo usado fazendo soma e concatenando
 
