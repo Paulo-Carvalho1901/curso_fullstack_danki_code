@@ -23,9 +23,6 @@
 # Essa técnica é a base para escrever códigos limpos, fáceis de manter e reutilizáveis
 
 
-# Falar primeiro sobre comentario em Python 
-# Como faze-los
-
 print(
     'Paulo Carvalho') # Comentario em linha apenas 1 linha
 """
