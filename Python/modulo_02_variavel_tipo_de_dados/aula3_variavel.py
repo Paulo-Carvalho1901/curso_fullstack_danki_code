@@ -42,6 +42,10 @@ nome = "Carvalho"
 
 a = b = c = 'Python'
 
+# Operador "+" sendo usado fazendo soma e concatenando
+
+#############################################################################
+# Resultado
 
 print(num1)
 print(num2)
@@ -49,5 +53,5 @@ print(nome)
 print(a)
 print(b)
 print(c)
-
-
+print(nome + a)
+print(num1 + num2)
