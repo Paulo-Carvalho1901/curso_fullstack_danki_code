@@ -7,8 +7,6 @@
 
 # Fazer um Bolo
 
-# (Insentivar o time resolver o problma juntos)
-
 # 1 - pegar os ingredientes
 # 2 - pegar uma vazilia
 # 3 - misturar os ingredientes
