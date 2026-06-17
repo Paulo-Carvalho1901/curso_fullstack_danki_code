@@ -31,3 +31,23 @@ ativo = True       # O Python entende que é um booleano (verdadeiro/falso)
 
 # * Padrão Snake Case: É boa prática separar nomes compostos com underline para
 # facilitar a leitura (Ex: taxa_juros em vez de taxaxjuros).
+
+
+num1 = 5 # (=) sinal de atribuilção, num1 recebe o valor 5
+num2 = 3.5
+
+
+nome = 'Paulo'
+nome = "Carvalho"
+
+a = b = c = 'Python'
+
+
+print(num1)
+print(num2)
+print(nome)
+print(a)
+print(b)
+print(c)
+
+
