@@ -7,7 +7,7 @@
 # do esforço do programador sobre o esforço computacional
 # Prioriza a legibilidade do código sobre a velocidade ou expressividade
 # combinado com sintaxe consisa e clara com os recursos poderosos
-# de sua biblioteca padrão e por módulos e frameworks desenvolvidoe por
+# de sua biblioteca padrão e por módulos e frameworks desenvolvido por
 # terceiros.
 
 # O criador da linguagem de programação Python é o programador holandês Guido van
